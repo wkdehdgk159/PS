@@ -1,5 +1,5 @@
-//https://school.programmers.co.kr/learn/courses/30/lessons/118666
-//성격 유형 검사하기
+#https://school.programmers.co.kr/learn/courses/30/lessons/118666
+#성격 유형 검사하기
 
 def solution(survey, choices):
     dic = {'R': 0, 'T':0, 'C':0, 'F':0, 'J':0, 'M':0, 'A':0, 'N':0}
@@ -32,4 +32,4 @@ def solution(survey, choices):
         
     return answer
 
-//딕셔너리를 이용한 단순 구현문제
+#딕셔너리를 이용한 단순 구현문제

@@ -1,5 +1,5 @@
-//https://school.programmers.co.kr/learn/courses/30/lessons/92341
-//주차 요금 계산(Level 2, 문자열)
+#https://school.programmers.co.kr/learn/courses/30/lessons/92341
+#주차 요금 계산(Level 2, 문자열)
 
 import math
 
@@ -44,4 +44,4 @@ def solution(fees, records):
     
     return answer
 
-//조금 귀찮은 문자열 문제. 문자열은 Python으로 하자...
+#조금 귀찮은 문자열 문제. 문자열은 Python으로 하자...

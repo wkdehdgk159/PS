@@ -1,5 +1,5 @@
-//https://school.programmers.co.kr/learn/courses/30/lessons/72412
-//순위 검색(Level 2, 문자열)
+#https://school.programmers.co.kr/learn/courses/30/lessons/72412
+#순위 검색(Level 2, 문자열)
 
 from itertools import combinations
 from collections import defaultdict
@@ -47,4 +47,4 @@ def solution(info, query):
         else:
             answer.append(0)
     return answer
-//다른 사람의 풀이에 조합을 사용하지 않고 모든 경우의 수를 dict에 넣어준 후 바로 이분탐색을 진행하는 코드가 있었는데 아름다웠다.
+#다른 사람의 풀이에 조합을 사용하지 않고 모든 경우의 수를 dict에 넣어준 후 바로 이분탐색을 진행하는 코드가 있었는데 아름다웠다.
