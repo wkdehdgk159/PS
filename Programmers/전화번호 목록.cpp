@@ -1,4 +1,4 @@
-//전력망을 둘로 나누기 (Level 2, 해시, 정렬)
+//전화번호 목록 (Level 2, 해시, 정렬)
 //https://school.programmers.co.kr/learn/courses/30/lessons/42577
 
 #include <string>
