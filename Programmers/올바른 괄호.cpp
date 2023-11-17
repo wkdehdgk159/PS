@@ -16,7 +16,7 @@ bool solution(string s)
     for(int i = 0; i < s.length(); i++) st.push(s[i]);
 
     //SOLVE
-    int l = 0, r = 0;
+    int l = 0, r = 0; //스택에서 뺸 괄호의 갯수
     while(!st.empty()) {
         if(st.top() == '(') l++;
         else r++;
