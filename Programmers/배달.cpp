@@ -7,9 +7,6 @@
 using namespace std;
 
 int dist[51];
-int N = 5;
-vector<vector<int> > road = {{1,2,1},{2,3,3},{5,2,2},{1,4,2},{5,3,1},{5,4,2}};
-int K = 3;
 
 vector<pair<int, int> > edge[51];
 
