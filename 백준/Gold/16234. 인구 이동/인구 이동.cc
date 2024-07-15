@@ -1,5 +1,5 @@
 //https://www.acmicpc.net/problem/16234
-//16234. 인구 이동(Gold 5, ???)
+//16234. 인구 이동(Gold 5, 시뮬레이션, BFS)
 
 #include <iostream>
 #include <cstdio>
